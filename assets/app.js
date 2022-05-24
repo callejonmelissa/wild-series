@@ -163,7 +163,7 @@ var _default = /*#__PURE__*/function (_Controller) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _styles_app_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./styles/app.css */ "./assets/styles/app.css");
+/* harmony import */ var _styles_app_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./styles/app.scss */ "./assets/styles/app.scss");
 /* harmony import */ var _bootstrap__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./bootstrap */ "./assets/bootstrap.js");
 /* harmony import */ var _images_logo_ws_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./images/logo_ws.png */ "./assets/images/logo_ws.png");
 /*
@@ -203,7 +203,7 @@ var app = (0,_symfony_stimulus_bridge__WEBPACK_IMPORTED_MODULE_0__.startStimulus
 
 /***/ }),
 
-/***/ "./assets/styles/app.css":
+/***/ "./assets/styles/app.scss":
 /*!*******************************!*\
   !*** ./assets/styles/app.css ***!
   \*******************************/
